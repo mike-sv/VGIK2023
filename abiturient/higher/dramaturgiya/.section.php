@@ -1,0 +1,6 @@
+<?
+$sSectionName = "Драматургия";
+$arDirProperties = Array(
+
+);
+?>

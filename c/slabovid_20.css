@@ -1,0 +1,59 @@
+body {
+	font-size:20px !important;
+}
+ul.left_menu_ul li {
+	font-size:20px !important;
+	line-height: 22px !important;
+	word-wrap: break-word;
+}
+.leftmenu {
+	max-width: 270px;
+}
+.vert_search_div {
+	max-width: 270px;
+}
+.vert_enter {
+	max-width: 150px;
+}
+.today h1, .obakter_r h1, .obakter_o h1, .obakter_m h1, .obakter_s h1, .obakter_p h1, .obakter_a h1, .scien h1, .libr h1, .colledge h1, .obakter_h h1, .intern h1, .izdat h1 {
+	font-size: 24px;
+}
+ul.popupmenu {
+	width: 210px;
+}
+.top_menu {
+	font-size: 20px;
+}
+.top_menu ul.horiz_menu li{
+	width: 175px;
+}
+#horizontal-multilevel-menu li a{
+	height: 85px;
+}
+.vert_enter {
+	max-width: 270px;
+	font-size: 20px;
+	line-height: normal;
+}
+.vert_enter .input_enter {
+	width: 80%;
+	height: auto;
+}
+.submit {
+	font-size: 20px;
+}
+.vert_search_div .input_search {
+	width: 60%;
+	padding: 3px;
+	font-size: 20px;
+	height: auto;
+}
+.button_main {
+	font-size: 20px;
+}
+#horizontal-multilevel-menu li ul li a {
+	height: 95px !important;
+}
+#horizontal-multilevel-menu li li {
+	width: 290px !important;
+}

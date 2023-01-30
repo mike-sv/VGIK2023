@@ -1,0 +1,25 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Деятельность", 
+		"/filmstudio/activity/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Услуги", 
+		"/filmstudio/services/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Контакты", 
+		"/filmstudio/contacts/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>

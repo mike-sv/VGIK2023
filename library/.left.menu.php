@@ -1,0 +1,32 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Информация", 
+		"/library/information/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Каталоги", 
+		"/library/catalogs/", 
+		Array(), 
+		Array(), 
+		"CSite::InGroup(array(1))" 
+	),
+	Array(
+		"Контакты", 
+		"/library/contacts/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"ЭБС", 
+		"/library/ebs/", 
+		Array(), 
+		Array(), 
+		"CSite::InGroup(array(1,10,8,7,3,13))" 
+	)
+);
+?>

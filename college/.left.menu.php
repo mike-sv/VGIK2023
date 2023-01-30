@@ -1,0 +1,81 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Общая информация", 
+		"/college/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Абитуриенту", 
+		"/college/abiturient/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Специальности", 
+		"/college/specialty/", 
+		Array(), 
+		Array(), 
+		"false" 
+	),
+	Array(
+		"Абитуриентам", 
+		"/college/school-leaver/", 
+		Array(), 
+		Array(), 
+		"false" 
+	),
+	Array(
+		"Студенту", 
+		"/college/students/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Творческая жизнь", 
+		"/college/creative_life_college", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Трудоустройство выпускников", 
+		"/college/history_of_animation/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Курсы", 
+		"/college/courses/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Преподаватели", 
+		"/college/teacher/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Галерея работ", 
+		"/college/gallery/", 
+		Array(), 
+		Array(), 
+		"CSite::InGroup(array(1))" 
+	),
+	Array(
+		"Контакты", 
+		"/college/contacts/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>

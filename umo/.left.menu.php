@@ -1,0 +1,18 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Î ÔÓÌÎ", 
+		"/umo/index.php", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Ñîñòàâ", 
+		"/umo/sostav.php", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>

@@ -1,0 +1,6 @@
+<?
+$sSectionName = "Бакалавриат";
+$arDirProperties = Array(
+
+);
+?>

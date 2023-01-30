@@ -1,0 +1,6 @@
+<?
+$sSectionName = "Итоги";
+$arDirProperties = Array(
+
+);
+?>

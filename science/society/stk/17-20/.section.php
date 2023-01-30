@@ -1,0 +1,6 @@
+<?
+$sSectionName = "Ðàáîòà ÑÍÒÎ â 2020-2017 ãã.";
+$arDirProperties = Array(
+
+);
+?>

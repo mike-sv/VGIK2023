@@ -1,0 +1,46 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Общая информация", 
+		"/history/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Этапы истории", 
+		"/history/stage/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Выпускники", 
+		"/history/graduating/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Фотогалерея", 
+		"/history/gallery/", 
+		Array(), 
+		Array(), 
+		"CSite::InGroup(array(1))" 
+	),
+	Array(
+		"Фильмография", 
+		"/history/filmography/", 
+		Array(), 
+		Array(), 
+		"CSite::InGroup(array(1))" 
+	),
+	Array(
+		"Публикации", 
+		"/history/publication/", 
+		Array(), 
+		Array(), 
+		"CSite::InGroup(array(1))" 
+	)
+);
+?>

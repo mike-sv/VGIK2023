@@ -1,0 +1,7 @@
+<?
+require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
+$APPLICATION->SetTitle("2018");
+?><a href="http://www.vgik.info/today/creativelife/detail.php?ID=7954">Пятый Всероссийский конкурс молодых ученых в области искусств и культуры (Министерства культуры Российской Федерации)</a>&nbsp;&nbsp;<br>
+ <a href="http://www.vgik.info/today/creativelife/detail.php?ID=8483">Конкурс Общероссийской общественной организации «Национальная система развития научной, творческой и инновационной деятельности молодежи России &nbsp;«Интеграция» для молодых ученых (среди преподавателей, аспирантов, студентов) в 2018-2019 гг.</a><br>
+ <a href="http://www.vgik.info/today/creativelife/detail.php?ID=8038">XXV Международная научная конференцию студентов, аспирантов и молодых ученых «Ломоносов»<br>
+ </a><a href="http://www.vgik.info/today/creativelife/detail.php?ID=8112">Конкурс работ "История глазами студентов и аспирантов ВГИКа»</a><a href="http://vgik.info/today/creativelife/detail.php?ID=7547">Студенческое научно-творческое общество (СНТО) ВГИКа приняло участие в&nbsp;III&nbsp;Всероссийском конкурсе на лучшее студенческое научное общество (СНО) и конструкторское бюро среди вузов России в Алтайском государственном университете (г. Барнаул)</a><?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>

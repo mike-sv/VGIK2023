@@ -1,0 +1,9 @@
+<?
+$PERM["portfolio"]["2"]="D";
+$PERM["portfolio"]["5"]="D";
+$PERM["portfolio"]["6"]="D";
+$PERM["portfolio"]["10"]="R";
+$PERM["portfolio"]["3"]="D";
+$PERM["portfolio"]["7"]="R";
+$PERM["portfolio"]["15"]="R";
+?>

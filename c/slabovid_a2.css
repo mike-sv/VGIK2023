@@ -1,0 +1,129 @@
+body {
+	background-color:#000;
+	color: #fff !important;
+}
+.today h1, .obakter_r h1, .obakter_o h1, .obakter_m h1, .obakter_s h1, .obakter_p h1, .obakter_a h1, .scien h1, .libr h1, .colledge h1, .obakter_h h1, .intern h1, .izdat h1 {
+	background-image: none !important;
+	background: #000;
+	font-weight: bold;
+	font-size: 18px;
+	margin-bottom: 0;
+}
+.today, .obakter_r, .obakter_o, .obakter_m, .obakter_s, .obakter_p, .obakter_a, .scien, .libr, .colledge, .obakter_h, .intern, .izdat {
+	background-image:none;
+}
+h2 {
+	color: #fff;
+}
+.leftmenu {
+	background-image: none;
+	background-color:#000;
+}
+.vert_search {
+	background-image: none;
+	background-color:#000;
+	color: #fff;
+}
+.vert_search_div .input_search {
+	border: 1px solid #fff;
+}
+.vert_enter .input_enter {
+	border: 1px solid black;
+	height: auto;
+	padding: 2px;
+}
+.main_content {
+	background-image: none;
+	background-color: #000;
+}
+#leftblock {
+	border-right: 1px solid #cecece;
+	border-top: 1px solid #cecece;
+}
+
+ul.left_menu_ul {
+	background-color: #000;
+	border-right: 1px solid #cecece;
+	border-top: 1px solid #cecece;
+}
+ul.left_menu_ul li {
+	border-bottom: 1px solid #C2C2C2
+}
+ul.left_menu_ul li {
+	background-color: #000;
+}
+.top_menu ul.horiz_menu li {
+	border: 1px solid #fff;
+	background-image:none;
+	background-color: #000;
+}
+.top_menu ul.horiz_menu {
+	background-image:none;
+}
+#horizontal-multilevel-menu li ul, #horizontal-multilevel-menu li ul a {
+	background-color: #000;
+}
+#nav a, .vert_search a {
+	color: #fff;
+}
+.button_main {
+	color: #fff;
+	border: 1px solid #000;
+	margin-top: 3px;
+	padding: 3px;
+}
+.submit {
+	background-color: #000;
+	padding: 3px;
+	border: 1px solid #fff;
+	margin-bottom:10px;
+	color: #fff;
+}
+
+#horizontal-multilevel-menu li a, #horizontal-multilevel-menu li:hover li a, #horizontal-multilevel-menu li.jshover li a, #horizontal-multilevel-menu li:hover li:hover li a, #horizontal-multilevel-menu li.jshover li.jshover li a, #horizontal-multilevel-menu li:hover li:hover li:hover li a, #horizontal-multilevel-menu li.jshover li.jshover li.jshover li a, #horizontal-multilevel-menu li:hover li:hover li:hover li:hover li a, #horizontal-multilevel-menu li.jshover li.jshover li.jshover li.jshover li a, #horizontal-multilevel-menu li:hover li:hover li:hover li:hover li:hover li a, #horizontal-multilevel-menu li.jshover li.jshover li.jshover li.jshover li.jshover li a {
+	color: #000;
+	text-decoration: underline;
+}
+.elastislide-wrapper {
+	background-color:#fafafa !important;
+}
+.elastislide-wrapper nav span {
+	background-color: #3D3737 !important;
+}
+.news-date-time {
+	color: #fff;
+	margin-right: 6px;
+}
+.head {
+	background: url(/img/background_a2.png) no-repeat left top;
+	background-size: 100% auto;
+}
+ul.popupmenu {
+	background-color: #EDEDEC;
+}
+a {
+	color: #fff;
+}
+a:hover {
+	color: #fefefe !important;
+}
+#horizontal-multilevel-menu li a, #horizontal-multilevel-menu li:hover li a, #horizontal-multilevel-menu li.jshover li a, #horizontal-multilevel-menu li:hover li:hover li a, #horizontal-multilevel-menu li.jshover li.jshover li a, #horizontal-multilevel-menu li:hover li:hover li:hover li a, #horizontal-multilevel-menu li.jshover li.jshover li.jshover li a, #horizontal-multilevel-menu li:hover li:hover li:hover li:hover li a, #horizontal-multilevel-menu li.jshover li.jshover li.jshover li.jshover li a, #horizontal-multilevel-menu li:hover li:hover li:hover li:hover li:hover li a, #horizontal-multilevel-menu li.jshover li.jshover li.jshover li.jshover li.jshover li a{
+	color: #fff !important;
+}
+.button_main {
+	border-color: #fff;
+}
+.vert_search_div .input_search {
+	color: #000;
+}
+.vert_enter .input_enter {
+	color: #000;
+}
+#slabovid {
+	background-color: #4F4D4D;
+}
+div.d a, div.l a {
+	color: #fff;
+	text-decoration: underline;
+}
+

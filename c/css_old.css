@@ -1,0 +1,655 @@
+html {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  border: 0; }
+
+body {
+	height: 100%;
+	margin: 0; 
+	padding: 0;
+	border: 0;
+	background: #E5D6C1; 
+	font-family: Myriad Pro, Arial, Tahoma, Verdana, Trebuchet MS; 
+	color:#000000; 
+	font-size: 0.9em; 
+	 }
+
+
+table, td {
+	border-collapse: collapse; 
+	empty-cells: show; 
+	border-color: #ccc;
+	font-size: 100%; }
+
+	
+a {
+	color: #000000;
+	text-decoration: none;  }
+a:hover {
+	color: #000000;
+	text-decoration: underline;  }
+a img {
+	border: 0; }
+	
+
+	
+/* Заголовки */
+h1 {
+	font-size: 105%;
+	padding-left: 15px;
+}
+h2 { 
+	font-size: 105%; }
+h3 {
+	font-size: 100%; }
+	
+.al_right {
+	text-align: right; }
+.al_center {
+	text-align: center; }
+	
+
+
+/* main table*/
+
+.MainTable {
+	width: 100%;
+	height: 100%;
+	background: url(/img/bg_text.jpg) repeat left top; }
+	
+.MainTableTop {
+	vertical-align: top; }
+
+.MainTableBot {
+	height: 20px;
+	vertical-align: top;  }
+	
+	
+/* H E A D E R */
+
+.logo_vgik {
+	position:absolute; 
+	z-index:2;  
+	padding-left: 16px; 
+	margin-top: 9px;}
+	
+.table_top_vgik {
+	width: 100%; 
+	height: 227px; 
+	background: url(/img/bg_top_4.jpg) repeat-x left top; 
+	padding: 0; 
+	margin: 0; }
+	
+.logo_text {
+	padding: 0; 
+	margin: 0;
+	height: 187px; 
+	vertical-align: bottom; 
+	background: url(/img/top_right.jpg) no-repeat right bottom; }
+
+.logo_text_img {
+	margin-left: 219px; 
+	margin-bottom: 5px;}
+	
+.re_version {
+	 padding: 0; 
+	 margin: 0; 
+	 width: 153px; 
+	 
+	 vertical-align: bottom; 
+	 padding-bottom: 6px; 
+	 font-family: Georgia, Times New Roman;
+	 font-size: 11px; 
+	 color: #6B6151; 
+	 text-align: center; }
+.re_version div{
+	 width: 153px;  }
+	 
+.ugol_top {
+	position: relative; 
+	height: 100%; 
+	z-index:2;  
+	background: url(/img/top_right_ug5.jpg) no-repeat right top;}
+	
+	
+/* H E A D E R menu */
+.top_menu {
+	margin: 0;
+	padding: 0;
+	font-family: Georgia, Palatino Linotype;
+	font-size: 13px;
+	color: #8B050B;
+	height: 41px;
+	background: url(/img/bg_top_border_r.gif) repeat-x left bottom;
+	vertical-align: bottom;
+	}	
+	
+.top_menu ul{
+	padding: 0;
+	margin: 0px 0 0 0;
+	height: 100%;
+	background:  url(/img/2bg_top_border_l.gif) no-repeat left bottom;
+	width: 805px;
+	}
+	
+.top_menu ul li{
+	/*display: inline;*/
+	float: left;
+	list-style-type: none;
+	padding: 5px 3px 5px 3px;
+	margin: 3px 2px 0px 0px;
+	width: 126px;
+	/*background-color: #fcf5e9;*/
+	background: url(/img/bg_top.jpg) repeat-x left bottom;
+	}
+.top_menu a{
+	color: #8B050B;
+	text-decoration: none;
+	display: block;
+	}
+
+.top_menu a:hover{
+	text-decoration: none;}
+	
+
+	
+	
+	
+	
+
+
+/*  LEFT menu */
+.left_menu_td {
+	vertical-align: top; 
+	margin: 0; 
+	padding:0; 
+
+	width: 5%; 
+	background: url(../img/bg_left.jpg) repeat-y left top;}
+		
+.vert_menu {
+	width: 153px; 
+	background: url(../img/vert_menu_bg.jpg) repeat left top;}
+
+.vert_menu ul{
+	padding: 0;
+	margin:0;
+	/*height: 231px;*/
+	background: url(../img/vert_menu.jpg) no-repeat left top;
+	}
+.vert_menu ul li{
+	/*height: 32px;
+	padding: 2px 8px 2px 20px;*/
+	padding: 9px 8px 9px 7px;
+	border-bottom: 2px solid #DECEB4;
+	text-align: right;
+	list-style-type: none;
+	color: #8B050B;
+	font: normal 13px/14px Georgia, Palatino Linotype;
+	}
+.vert_menu a{
+	color: #8B050B;
+	display: block;
+	text-decoration: none; 
+	}
+.vert_menu a:hover{
+	text-decoration: none; 
+	}
+			
+/*.vert_menu {
+	width: 153px; 
+	background: url(../img/vert_menu_bg.jpg) repeat left top;}
+
+.vert_menu ul{
+	padding: 0;
+	margin:0;
+	/*height: 231px;
+	background: url(../img/vert_menu.jpg) no-repeat left top;
+	}
+.vert_menu ul li{
+	/*height: 32px;
+	padding: 2px 8px 2px 20px;
+	padding: 9px 8px 9px 20px;
+	border-bottom: 2px solid #DECEB4;
+	text-align: right;
+	list-style-type: none;
+	color: #8B050B;
+	font-family: Georgia, Palatino Linotype;
+	font-size: 13px;
+	line-height: 0.9;
+	font-weight: normal;
+	}
+.left_menu a{
+	color: #8B050B;
+	display: block;
+	text-decoration: none; 
+	}
+.left_menu a:hover{
+	text-decoration: none; 
+	}
+	*/
+
+/* поиск */	
+.vert_search_div {
+	text-align: right;
+	width: 144px;
+	padding-top: 56px; }
+	
+.vert_search_div form{
+	margin: 0;
+	padding: 0;}
+	
+.vert_search_div .input_search {
+	width: 117px;
+	height: 17px;
+	border: 0; }
+	
+.button_main {
+	border: 0; 
+	background: none; 
+	color: #8B050B;
+	font-family: Georgia, Palatino Linotype;
+	font-size: 14px;
+	cursor: pointer;
+	padding: 0px;
+	margin: 0;
+	text-align: right; }
+	
+.vert_search a {
+	color: #8B050B;}
+.vert_search a:hover {
+	text-decoration: none; }
+	
+	
+	
+/* вход */
+.vert_enter {
+	text-align: right;
+	width: 144px;
+	margin: 0;
+	padding-top: 75px; }
+	
+.vert_enter form{
+	margin: 0;
+	padding: 0;}
+	
+.vert_enter .input_enter {
+	width: 100px;
+	height: 17px;
+	border: 0;}
+
+	
+	
+/**/
+.table_main_center_border {
+	width: 1%;  
+	background: url(/img/bg_border_left.gif) repeat-y left top; }
+
+.table_main_center {
+	width: 90%; 
+	height: 80%; 
+	vertical-align: top;
+	padding: 20px 0px 50px 20px;
+	/*padding-right: 50px;*/ }
+	
+	
+/* raight */
+.table_main_right {
+	padding: 0;
+	margin: 0;
+	vertical-align: top;
+	width: 5%;
+	background: url(/img/bg_right.jpg) repeat-y right top;}
+	
+.ugol_bottom {
+	position: relative; 
+	width: 78px; 
+	height: 121px; 
+	margin-right: 10px; 
+	z-index:2; 
+	background: url(/img/bottom_right_ug.gif) no-repeat right top;}
+	
+
+/* F O O T E R */
+
+.footer_center {
+	text-align:center; 
+	background: url(/img/bg_border_left.gif) repeat-y left top;
+	padding: 10px 10px 10px 20px;}
+	
+	
+	
+/* C O N T E N T */
+
+/* rector index */
+.rector_main {
+	margin-left: 48px;
+	margin-bottom: 20px;
+	background: url(/img/bg_rektor.jpg) no-repeat right top;
+	height: 225px; }
+	
+	.rector_main p {
+		padding: 0;
+		margin: 0;}
+		
+	.rector_main p.al_right {
+		margin-top:20px;}
+		
+	.rector_main h2 {
+		text-align: center;
+		margin-top: 0;}
+		
+	.rector_main .left {
+		width: 75%;
+		vertical-align: top; }
+	.rector_main .right {
+		vertical-align: top;
+		text-align: right; 
+		padding-top: 25px;
+		padding-right: 15px; }
+		
+/* banner index */
+.banner_main {
+	margin-left: 48px;
+	background: #FAA334;
+	width: 668px;
+	height: 141px; 
+	text-align: center;
+	margin-bottom: 30px; }
+	
+	.banner_text {
+		padding:3px;}
+	.banner_pic {
+		margin: 2px;}
+		
+		
+/* video news index */	
+.main_news {
+	width: 100%;
+	margin-bottom: 20px; }
+	
+	.main_news h2 {
+		padding: 2px 5px 5px 5px;
+		margin: 0 0 15px 0; 
+		color: #000000;
+		font-family: Georgia, Palatino Linotype;
+		font-size: 19px;
+		width: 240px;
+		font-weight: normal;
+		background: #FAA334;}
+		
+	.main_news .left {
+		vertical-align: top; }
+	.main_news .right {
+		vertical-align: top;
+		text-align: right; 
+		padding-right: 15px; }
+	.main_news .data {
+		color: #808080;}
+	.main_news .top_pad {
+		margin-top:0;}
+	.main_news .pad_left {
+		padding-left: 6px;}
+	.main_news .archive {
+		padding-top: 5px;}
+	.main_news .news_pic {
+		float: right;
+		margin: 3px;}
+		
+		
+/* contnt margin */	
+.content_div {
+	margin-left: 25px;
+	margin-top: 10px;
+	width: 100%;} 
+		
+	.content_div h1{
+		margin-top: 0;
+		padding: 6px 8px 9px 8px;
+		font-family: Georgia, Palatino Linotype;
+		font-size: 19px;
+		font-weight: normal;
+		width: 655px; }	
+		
+	.content_div ul{
+		margin-top:0;
+		margin-bottom:0;
+		}
+		.content_div ul ul{
+			margin-top:0;
+			margin-bottom:0;
+		}
+		.content_div ul li ul{
+			margin-left: 20px;
+		}
+		
+	
+		
+	.content_div div.heading {
+		margin: 5px 5px 5px 10px;}
+		
+	.content_div ul li.d{
+		padding: 2px 2px 2px 9px;
+		}	
+	.content_div ul li.l{
+		padding: 2px 2px 2px 9px;
+		}	
+		
+	.ul_no_type {
+		list-style-type: none;
+		margin:0;
+		padding: 8px 8px 20px 0px;
+		width: 260px; }
+		
+		.ul_no_type li{
+			list-style-type: none; }
+			
+/*абитуриенту */		
+.abitur {
+	background: url(/img/bg_bot_abitur.jpg) no-repeat right bottom; }	
+	
+	.abitur h1{
+		background: #98B88C url(/img/bg_h1_abitur.gif) no-repeat right top; }	
+		
+	.abitur li{
+		list-style-position: inside;
+		}
+		
+	.abitur ul li.d{
+		background: url(/img/bg_abitur_li_d.png) repeat right top;
+		}	
+	.abitur ul li.l{
+		background: url(/img/bg_abitur_li_l.png) repeat right top;
+		}
+	.abitur .width_abitur{
+		width: 670px;
+		}
+
+/* контакты общие*/
+.contacts{
+	background: url(../img/bg_bot_cont.jpg) no-repeat right bottom; }
+.contacts h1{
+		background: #c3c589 url(../img/bg_h1_cont.gif) no-repeat right bottom; }	
+.contacts ul li.d{
+		background: #ded7b4 url(../img/bg_cont_li_d.gif) repeat right top;
+		}	
+	.contacts ul li.l{
+		background: #e6ddbf url(../img/bg_cont_li_l.gif) repeat right top;
+		}	
+
+		
+/* афиша */		
+.afisha {
+	background: url(/img/bg_bot_afisha.jpg) no-repeat right bottom; }	
+	
+	.afisha h1{
+		background: #FBEE79 url(/img/bg_h1_afisha.gif) no-repeat right bottom; }	
+		
+	.afisha ul li.d{
+		background: #F6E9B0 url(/img/bg_afisha_li_d.gif) repeat right top;
+		}	
+	.afisha ul li.l{
+		background: #F4E7BB url(/img/bg_afisha_li_l.gif) repeat right top;
+		}
+		
+/* библотека */		
+.libr {
+	background: url(/img/bg_bot_libr.jpg) no-repeat right bottom; }	
+	
+	.libr h1{
+		background: #B87095 url(/img/bg_h1_libr.gif) no-repeat right bottom; }	
+		
+	.libr ul li.d{
+		background: #DAB7B8 url(/img/bg_libr_li_d.gif) repeat right top;
+		}	
+	.libr ul li.l{
+		background: #E2C6C0 url(/img/bg_libr_li_l.gif) repeat right top;
+		}
+		
+/* ЦДПО */		
+.fdpo {
+	background: url(/img/bg_bot_fdpo.jpg) no-repeat right bottom; }	
+	
+	.fdpo h1{
+		background: #7CA095 url(/img/bg_h1_fdpo.gif) no-repeat right bottom; }	
+		
+	.fdpo ul li.d{
+		background: #C4C9B9 url(/img/bg_fdpo_li_d.gif) repeat right top;
+		}	
+	.fdpo ul li.l{
+		background: #D4D3C1 url(/img/bg_fdpo_li_l.gif) repeat right top;
+		}
+		
+/* Фестиваль */		
+.fest {
+	background: url(/img/bg_bot_fest.jpg) no-repeat right bottom; }	
+	
+	.fest h1{
+		background: #E94A46 url(/img/bg_h1_fest.gif) no-repeat right bottom; }	
+		
+	.fest ul li.d{
+		background: #EDA99B url(/img/bg_fest_li_d.gif) repeat right top;
+		}	
+	.fest ul li.l{
+		background: #EDBCAC url(/img/bg_fest_li_l.gif) repeat right top;
+		}
+		
+/* international */		
+.intern {
+	background: url(/img/bg_bot_intern.jpg) no-repeat right bottom; }	
+	
+	.intern h1{
+		background: #F7B351 url(/img/bg_h1_intern.gif) no-repeat right bottom; }	
+		
+	.intern ul li.d{
+		background: #F3D1A0 url(/img/bg_intern_li_d.gif) repeat right top;
+		}	
+	.intern ul li.l{
+		background: #F2D7B0 url(/img/bg_intern_li_l.gif) repeat right top;
+		}
+		
+/* история */		
+.hist {
+	background: url(/img/bg_bot_hist.jpg) no-repeat right bottom; }	
+	
+	.hist h1{
+		background: #BBA88C url(/img/bg_h1_hist.gif) no-repeat right bottom; }	
+		
+	.hist ul li.d{
+		background: #DACBB4 url(/img/bg_hist_li_d.gif) repeat right top;
+		}	
+	.hist ul li.l{
+		background: #E3D4BE url(/img/bg_hist_li_l.gif) repeat right top;
+		}
+		
+/* izdat */		
+.izdat {
+	background: url(/img/bg_bot_izdat.jpg) no-repeat right bottom; }	
+	
+	.izdat h1{
+		background: #C0A7AF url(/img/bg_h1_izdat.gif) no-repeat right bottom; }	
+		
+	.izdat ul li.d{
+		background: #DECCC3 url(/img/bg_izdat_li_d.gif) repeat right top;
+		}	
+	.izdat ul li.l{
+		background: #E5D5C8 url(/img/bg_izdat_li_l.gif) repeat right top;
+		}
+		
+/* наука */		
+.scien {
+	background: url(/img/bg_bot_scien.jpg) no-repeat right bottom; }	
+	
+	.scien h1{
+		background: #C59BB8 url(/img/bg_h1_scien.gif) no-repeat right bottom; }	
+		
+	.scien ul li.d{
+		background: #E0C9C7 url(/img/bg_scien_li_d.gif) repeat right top;
+		}	
+	.scien ul li.l{
+		background: #E7D3CB url(/img/bg_scien_li_l.gif) repeat right top;
+		}
+	.scien .scien_ul {
+		list-style-type:decimal; 
+		list-style-position: outside;
+		margin-top:0;
+		margin-bottom: 0; }
+		
+	.scien .scien_ul_no ul{
+		list-style-type: none; }
+	.scien .scien_ul_no li{
+		list-style-type: none; }
+		
+/* студенческие работы */		
+.stud_rab {
+	background: url(/img/bg_bot_stud_rab.jpg) no-repeat right bottom; }	
+	
+	.stud_rab h1{
+		background: #86B868 url(/img/bg_h1_stud_rab.gif) no-repeat right bottom; }	
+		
+	.stud_rab ul li.d{
+		background: #C9D3A9 url(/img/bg_stud_rab_li_d.gif) repeat right top;
+		}	
+	.stud_rab ul li.l{
+		background: #D6D9B6 url(/img/bg_stud_rab_li_l.gif) repeat right top;
+		}
+		
+/* студентам */		
+.forstud {
+	background: url(/img/bg_bot_forstud.jpg) no-repeat right bottom; }	
+	
+	.forstud h1{
+		background: #8292B0 url(/img/bg_h1_forstud.gif) no-repeat right bottom; }	
+		
+	.forstud ul li.d{
+		background: #C7C5C4 url(/img/bg_forstud_li_d.gif) repeat right top;
+		}	
+	.forstud ul li.l{
+		background: #D5CFC8 url(/img/bg_forstud_li_l.gif) repeat right top;
+		}
+		
+/* VGIKtoday */		
+.today {
+	background: url(/img/bg_bot_today.jpg) no-repeat right bottom; }	
+	
+	.today h1{
+		background: #F6AD3E url(/img/bg_h1_today.gif) no-repeat right bottom; }	
+		
+	.today ul li.d{
+		background: #F3CF99 url(/img/bg_today_li_d.gif) repeat right top;
+		}	
+	.today ul li.l{
+		background: #F1D5AA url(/img/bg_today_li_l.gif) repeat right top;
+		}
+		
+/* актёрский факультет */		
+.obakter {
+	background: url(/img/bg_bot_obakter.jpg) no-repeat right bottom; }	
+	
+	.obakter h1{
+		background: #68A78D url(/img/bg_h1_obakter.gif) no-repeat right bottom; }	
+	
+	
+		
